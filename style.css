@@ -1,14 +1,9 @@
-/* #448ccb */
+/* #0F1926 */
 
 body {
     margin: 0;
 }
 
-.my-container {
-    background: #448ccb;
-}
-
-.my-inlineblock {
-    background: #a186be;
-    display: inline;
+.info {
+    background-color: white;
 }
