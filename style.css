@@ -93,3 +93,9 @@ body {
     max-height: 335px;
     border-radius: 25px;
 }
+
+.img-explore-lab {
+    max-width: 1500px;
+    max-height: 410px;
+    border-radius: 25px;
+}
