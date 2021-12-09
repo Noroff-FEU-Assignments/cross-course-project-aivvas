@@ -99,3 +99,39 @@ body {
     max-height: 410px;
     border-radius: 25px;
 }
+
+.img-spaces-scientific {
+    max-width: 722px;
+    max-height: 480px;
+    border-radius: 25px;
+}
+
+.img-spaces-roberto {
+    max-width: 660px;
+    max-height: 1000px;
+    border-radius: 25px;
+}
+
+.img-events-samuel {
+    max-width: 566px;
+    max-height: 848px;
+    border-radius: 25px;
+}
+
+.img-events-mammoth {
+    max-width: 1169px;
+    max-height: 778px;
+    border-radius: 25px;
+}
+
+.img-visit-scott {
+    max-width: 694px;
+    max-height: 694px;
+    border-radius: 25px;
+}
+
+.img-involved-people {
+    max-width: 715px;
+    max-height: 473px;
+    border-radius: 25px;
+}
