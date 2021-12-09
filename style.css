@@ -2,6 +2,8 @@
 
 *{background-color: #0F1926;}
 
+*{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
 body {
     margin: 0;
 }
@@ -72,4 +74,9 @@ body {
 
 .info-visit {
     color: white;
+}
+
+.img-home-toa {
+    max-width: 531px;
+    max-height: 796px;
 }
