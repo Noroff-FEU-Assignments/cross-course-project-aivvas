@@ -141,6 +141,9 @@ body {
 }
 
 .info {
-    flex: wrap;
+    justify-content: left;
 }
 
+.img-home1 {
+    justify-content: right;
+}
