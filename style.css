@@ -138,6 +138,7 @@ body {
 
 .main-home {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .info {
