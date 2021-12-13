@@ -143,8 +143,14 @@ body {
 
 .info {
     justify-content: left;
+    gap: 20px;
 }
 
 .img-home1 {
     justify-content: right;
+}
+
+.img-home2 {
+    align-content: flex-end;
+    align-content: center;
 }
