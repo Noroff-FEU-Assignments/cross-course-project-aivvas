@@ -135,3 +135,15 @@ body {
     max-height: 473px;
     border-radius: 25px;
 }
+
+.main-home {
+    display: flex;
+}
+
+.info {
+    flex: wrap;
+}
+
+.img-home1 {
+    justify-content: right;
+}
