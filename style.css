@@ -178,7 +178,7 @@ body {
     align-self: flex-end;
 }
 .volunteer {
-    order: 2;
+    order: 1;
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
