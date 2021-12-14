@@ -172,7 +172,7 @@ body {
 .img-involved-people {
     order: 1;
     text-align: right;
-    align-self: end;
+    align-self: flex-end;
 }
 .volunteer {
     order: 3;
