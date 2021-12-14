@@ -142,13 +142,13 @@ body {
 }
 
 .info {
-    order: 5;
+    order: 1;
 }
 
 .img-home1 {
-    justify-content: right;
+    order: 2;
 }
 
 .img-home2 {
-    align-content: flex-end;
+    order: 5;
 }
