@@ -156,3 +156,15 @@ body {
 .img-home2 {
     order: 5;
 }
+
+.getinvolved-main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.support {
+    order: 1;
+    font-size: 1em;
+    inline-size: 720px;
+    overflow-wrap: break-word;
+}
