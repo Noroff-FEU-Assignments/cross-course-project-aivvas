@@ -138,11 +138,12 @@ body {
 
 .main-home {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .info {
-    justify-content: left;
-    gap: 20px;
+    flex-grow: 1;
+    flex-shrink: 1;
 }
 
 .img-home1 {
