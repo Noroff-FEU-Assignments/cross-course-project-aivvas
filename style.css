@@ -170,7 +170,7 @@ body {
 }
 
 .img-involved-people {
-    order: 2;
+    order: -1;
     direction: row;
 }
 
