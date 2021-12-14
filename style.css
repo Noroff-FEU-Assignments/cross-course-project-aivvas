@@ -159,7 +159,7 @@ body {
 
 .getinvolved-main {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .support {
@@ -170,13 +170,13 @@ body {
 }
 
 .img-involved-people {
-    order: 5;
+    order: 2;
 }
 
 .volunteer {
-    order: 1;
+    order: 3;
 }
 
 .internship {
-    order: 1;
+    order: 4;
 }
