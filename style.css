@@ -178,14 +178,14 @@ body {
     align-self: flex-end;
 }
 .volunteer {
-    order: 3;
+    order: 2;
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
 }
 
 .internship {
-    order: 4;
+    order: 3;
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
