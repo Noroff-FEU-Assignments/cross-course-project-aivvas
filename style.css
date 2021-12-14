@@ -170,8 +170,7 @@ body {
 }
 
 .img-involved-people {
-    display: inline;
-    vertical-align: middle;
+    float: left;
 }
 
 .volunteer {
