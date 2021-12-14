@@ -144,6 +144,8 @@ body {
 .info {
     order: 1;
     flex-wrap: wrap;
+    inline-size: 150px;
+    overflow-wrap: break-word;
 }
 
 .img-home1 {
