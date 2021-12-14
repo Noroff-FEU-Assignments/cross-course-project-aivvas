@@ -170,9 +170,9 @@ body {
 }
 
 .img-involved-people {
-    order: -1;
-    text-align: left;
-}
+    order: 1;
+    text-align: right;
+    align-self: flex-end;
 
 .volunteer {
     order: 3;
