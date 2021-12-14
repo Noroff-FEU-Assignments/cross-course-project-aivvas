@@ -171,6 +171,7 @@ body {
 
 .img-involved-people {
     order: 2;
+    direction: row;
 }
 
 .volunteer {
