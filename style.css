@@ -160,6 +160,10 @@ body {
     order: 5;
 }
 
+.h1-involved {
+    align-content: center;
+}
+
 .getinvolved-main {
     display: flex;
     flex-direction: column;
