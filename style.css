@@ -144,7 +144,7 @@ body {
 .info {
     order: 1;
     flex-wrap: wrap;
-    inline-size: 200px;
+    inline-size: 300px;
     overflow-wrap: break-word;
 }
 
