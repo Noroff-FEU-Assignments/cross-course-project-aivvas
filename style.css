@@ -138,7 +138,6 @@ body {
 
 .main-home {
     display: flex;
-    align-content: space-between;
 }
 
 .info {
