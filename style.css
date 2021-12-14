@@ -170,7 +170,9 @@ body {
 }
 
 .img-involved-people {
-    float: right;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 500px;
 }
 
 .volunteer {
