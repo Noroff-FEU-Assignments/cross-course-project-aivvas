@@ -134,6 +134,9 @@ body {
     max-width: 715px;
     max-height: 473px;
     border-radius: 25px;
+    top: 0;
+    right: o;
+    left: 0;
 }
 
 .main-home {
@@ -176,8 +179,14 @@ body {
 }
 .volunteer {
     order: 3;
+    font-size: 1em;
+    inline-size: 720px;
+    overflow-wrap: break-word;
 }
 
 .internship {
     order: 4;
+    font-size: 1em;
+    inline-size: 720px;
+    overflow-wrap: break-word;
 }
