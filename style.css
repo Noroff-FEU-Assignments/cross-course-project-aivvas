@@ -172,3 +172,11 @@ body {
 .img-involved-people {
     order: 3;
 }
+
+.volunteer {
+    order: 2;
+}
+
+.internship {
+    order: 2;
+}
