@@ -139,6 +139,14 @@ body {
     left: 0;
 }
 
+.nav-parent {
+    display: flex;
+}
+
+.navigation {
+    flex-direction: row-reverse;
+}
+
 .main-home {
     display: flex;
     flex-wrap: wrap;
@@ -180,14 +188,12 @@ body {
     order: 1;
     text-align: right;
     align-self: flex-end;
-    display: inline-block;
 }
 .volunteer {
     order: 1;
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
-    display: inline-block;
 }
 
 .internship {
@@ -195,5 +201,4 @@ body {
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
-    display: inline-block;
 }
