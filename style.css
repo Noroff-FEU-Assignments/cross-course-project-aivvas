@@ -148,6 +148,10 @@ body {
 
 }
 
+.explore {
+    align-self: flex-end;
+}
+
 .main-home {
     display: flex;
     flex-wrap: wrap;
