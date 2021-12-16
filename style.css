@@ -219,7 +219,6 @@ body {
 
 .h1-visit {
     text-align: center;
-    
 }
 
 .img-visit-scott {
@@ -233,5 +232,25 @@ body {
     font-size: 1em;
     inline-size: 170px;
     overflow-wrap: break-word;
+    margin: 0 auto;
+}
+
+.admission-visit {
+    order: 2;
+    margin: 0 auto;
+}
+
+.accessibility-visit {
+    order: 2;
+    margin: 0 auto;
+}
+
+.food-visit {
+    order: 2;
+    margin: 0 auto;
+}
+
+.shop-visit {
+    order: 2;
     margin: 0 auto;
 }
