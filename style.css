@@ -221,3 +221,11 @@ body {
     align-self: flex-end;
     margin: 0 auto;
 }
+
+.p-visit {
+    flex-wrap: wrap;
+    font-size: 1em;
+    inline-size: 420px;
+    overflow-wrap: break-word;
+    margin: 0 auto;
+}
