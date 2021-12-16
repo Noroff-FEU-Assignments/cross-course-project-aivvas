@@ -212,3 +212,12 @@ body {
     overflow-wrap: break-word;
     margin: 0 auto;
 }
+
+.visit-parent {
+    display: flex;
+}
+
+.img-visit-scott {
+    align-self: flex-end;
+    margin: 0 auto;
+}
