@@ -144,8 +144,8 @@ body {
 }
 
 .navigation {
-    align-self: center;
-    
+    align-self: flex-end;
+
 }
 
 .main-home {
