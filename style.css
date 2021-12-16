@@ -217,6 +217,11 @@ body {
     display: flex;
 }
 
+.h1-visit {
+    text-align: center;
+    
+}
+
 .img-visit-scott {
     align-self: flex-end;
     text-align: right;
