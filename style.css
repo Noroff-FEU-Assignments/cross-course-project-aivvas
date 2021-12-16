@@ -229,7 +229,6 @@ body {
 }
 
 .p-visit {
-    flex-wrap: wrap;
     font-size: 1em;
     inline-size: 170px;
     overflow-wrap: break-word;
