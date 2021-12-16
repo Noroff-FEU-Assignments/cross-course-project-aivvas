@@ -228,4 +228,5 @@ body {
     inline-size: 170px;
     overflow-wrap: break-word;
     margin: 0 auto;
+    border: white;
 }
