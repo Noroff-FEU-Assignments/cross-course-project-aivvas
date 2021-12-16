@@ -215,6 +215,7 @@ body {
 
 .visit-parent {
     display: flex;
+    flex-direction: row;
 }
 
 .h1-visit {
