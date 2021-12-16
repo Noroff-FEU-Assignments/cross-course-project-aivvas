@@ -219,6 +219,7 @@ body {
 
 .img-visit-scott {
     align-self: flex-end;
+    text-align: right;
     margin: 0 auto;
 }
 
@@ -228,5 +229,4 @@ body {
     inline-size: 170px;
     overflow-wrap: break-word;
     margin: 0 auto;
-    border: white;
 }
