@@ -48,7 +48,7 @@ body {
     background-color: #f0f2a7;
     color: black;
     font-size: 1em;
-    padding: 8px 30px;
+    padding: 1px 10px;
     border-radius: 15px;
 }
 
@@ -162,6 +162,7 @@ body {
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
+    align-self: flex-end;
 }
 
 .img-home1 {
