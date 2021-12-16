@@ -162,7 +162,7 @@ body {
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
-    align-self: center;
+    display: block;
 }
 
 .img-home1 {
