@@ -148,9 +148,6 @@ body {
 
 }
 
-.explore {
-}
-
 .main-home {
     display: flex;
     flex-wrap: wrap;
@@ -172,6 +169,7 @@ body {
 
 .img-home2 {
     order: 5;
+    align-self: center;
 }
 
 .h1-involved {
