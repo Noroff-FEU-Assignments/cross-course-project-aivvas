@@ -189,6 +189,7 @@ body {
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
+    margin: 0 auto;
 }
 
 .img-involved-people {
@@ -201,6 +202,7 @@ body {
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
+    margin: 0 auto;
 }
 
 .internship {
@@ -208,4 +210,5 @@ body {
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
+    margin: 0 auto;
 }
