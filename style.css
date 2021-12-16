@@ -195,6 +195,7 @@ body {
     order: 1;
     text-align: right;
     align-self: flex-end;
+    margin: 0 auto;
 }
 .volunteer {
     order: 1;
