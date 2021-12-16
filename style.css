@@ -162,7 +162,7 @@ body {
     font-size: 1em;
     inline-size: 720px;
     overflow-wrap: break-word;
-    display: block;
+    margin: 0 auto;
     align-self: center;
 }
 
