@@ -251,3 +251,24 @@ body {
 .shop-visit {
     margin: 0 auto;
 }
+
+.explore-parent {
+    display: flex;
+}
+
+.img-explore-learn {
+    margin: 0 auto;
+    align-self:flex-end;
+}
+
+.forkids {
+    margin: 0 auto;
+}
+
+.forteachers {
+    margin: 0 auto;
+}
+
+.forresearchers {
+    margin: 0 auto;
+}
