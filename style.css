@@ -216,6 +216,7 @@ body {
 .visit-parent {
     display: flex;
     align-items: center;
+    gap: 10px;
 }
 
 .h1-visit {
@@ -240,13 +241,13 @@ body {
 }
 
 .accessibility-visit {
-    align-self: flex-start;
+    margin: 0 auto;
 }
 
 .food-visit {
-    align-self: flex-start;
+    margin: 0 auto;
 }
 
 .shop-visit {
-    align-self: flex-start;
+    margin: 0 auto;
 }
