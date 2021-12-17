@@ -172,7 +172,7 @@ body {
 .img-home2 {
     order: 5;
     margin: 0 auto;
-    align-self: flex-end;
+    text-align: center;
 }
 
 .h1-involved {
