@@ -215,6 +215,7 @@ body {
 
 .visit-parent {
     display: flex;
+    align-items: center;
 }
 
 .h1-visit {
