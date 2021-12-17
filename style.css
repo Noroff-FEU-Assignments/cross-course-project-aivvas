@@ -254,6 +254,7 @@ body {
 
 .explore-parent {
     display: flex;
+    flex-direction: column;
 }
 
 .img-explore-learn {
