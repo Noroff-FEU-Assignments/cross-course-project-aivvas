@@ -214,6 +214,7 @@ body {
 }
 
 .visit-parent {
+    display: flex;
 }
 
 .h1-visit {
