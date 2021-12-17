@@ -231,6 +231,7 @@ body {
 .p-visit > p {
     font-size: 1em;
     overflow-wrap: break-word;
+    inline-size: 170px;
     margin: 0 auto;
 }
 
