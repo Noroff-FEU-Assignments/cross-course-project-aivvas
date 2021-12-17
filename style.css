@@ -233,6 +233,7 @@ body {
     inline-size: 170px;
     overflow-wrap: break-word;
     margin: 0 auto;
+    text-align: left;
 }
 
 .admission-visit {
