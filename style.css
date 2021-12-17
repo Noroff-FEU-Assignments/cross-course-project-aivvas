@@ -241,14 +241,17 @@ body {
 
 .accessibility-visit {
     margin: 0 auto;
+    text-align: start;
 }
 
 .food-visit {
     margin: 0 auto;
+    text-align: start;
 }
 
 .shop-visit {
     margin: 0 auto;
+    text-align: start;
 }
 
 .explore-parent {
