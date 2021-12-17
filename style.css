@@ -257,6 +257,10 @@ body {
     flex-direction: column;
 }
 
+.h1-explore {
+    text-align: center;
+}
+
 .img-explore-learn {
     margin: 0 auto;
     align-self:flex-end;
