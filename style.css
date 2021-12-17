@@ -216,7 +216,7 @@ body {
 .visit-parent {
     display: flex;
     align-items: row;
-    gap: 10px;
+    gap: 5px;
 }
 
 .h1-visit {
