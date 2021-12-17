@@ -239,13 +239,13 @@ body {
 }
 
 .accessibility-visit {
-    margin: 0 auto;
+    align-self: flex-start;
 }
 
 .food-visit {
-    margin: 0 auto;
+    align-self: flex-start;
 }
 
 .shop-visit {
-    margin: 0 auto;
+    align-self: flex-start;
 }
