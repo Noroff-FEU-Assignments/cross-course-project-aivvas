@@ -215,7 +215,7 @@ body {
 
 .visit-parent {
     display: flex;
-    align-items: row;
+    flex-direction: column;
     gap: 5px;
 }
 
