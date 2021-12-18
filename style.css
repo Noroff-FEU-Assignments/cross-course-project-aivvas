@@ -332,3 +332,41 @@ body {
 .img-events-mammoth {
     align-self: center;
 }
+
+.exhibition-spaces-parent {
+    display: flex;
+}
+
+.h1-exhibition-spaces {
+    text-align: center;
+}
+
+.cosmology {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+}
+
+.evolution {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+}
+
+.biology-and-medicine {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+}
+
+.robotics-and-al {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+}
+
+.ecology {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+}
