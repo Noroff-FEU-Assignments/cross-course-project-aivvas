@@ -232,25 +232,20 @@ body {
     font-size: 1em;
     overflow-wrap: break-word;
     inline-size: 170px;
-    margin: 0 auto;
 }
 
 .admission-visit {
-    margin: 0 auto;
 }
 
 .accessibility-visit {
-    margin: 0 auto;
     text-align: start;
 }
 
 .food-visit {
-    margin: 0 auto;
     text-align: start;
 }
 
 .shop-visit {
-    margin: 0 auto;
     text-align: start;
 }
 
