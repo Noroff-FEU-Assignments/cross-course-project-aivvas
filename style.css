@@ -291,7 +291,7 @@ body {
 
 .news {
     font-size: 1em;
-    overflow-wrap: break-word;
     inline-size: 250px;
+    overflow-wrap: break-word;
     margin: 0 auto;
 }
