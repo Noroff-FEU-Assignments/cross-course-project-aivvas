@@ -300,5 +300,5 @@ body {
 }
 
 .img-events-samuel {
-    align-self: flex-end;
+    order: 5;
 }
