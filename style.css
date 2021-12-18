@@ -318,7 +318,8 @@ body {
 }
 
 .img-events-samuel {
-    order:1;
+    order: -1;
+    margin: 0 auto;
 }
 
 .img-events-mammoth {
