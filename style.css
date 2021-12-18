@@ -310,6 +310,7 @@ body {
     inline-size: 250px;
     overflow-wrap: break-word;
     text-align: center;
+    align-self: center;
 }
 
 .exhibition-loan {
@@ -317,4 +318,5 @@ body {
     inline-size: 250px;
     overflow-wrap: break-word;
     text-align: center;
+    align-self: center;
 }
