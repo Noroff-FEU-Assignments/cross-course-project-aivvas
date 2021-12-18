@@ -323,6 +323,5 @@ body {
 }
 
 .img-events-mammoth {
-    align-self: flex-end;
-    margin: 0 auto;
+    order: 2;
 }
