@@ -318,9 +318,9 @@ body {
 }
 
 .img-events-samuel {
-    order: 1;
+    order: -1;
 }
 
 .img-events-mammoth {
-
+    align-self:center;
 }
