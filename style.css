@@ -288,19 +288,31 @@ body {
 
 .img-explore-learn {
     margin: 0 auto;
-    align-self:flex-end;
+    align-self:center;
 }
 
 .forkids {
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .forteachers {
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .forresearchers {
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .img-explore2 {
