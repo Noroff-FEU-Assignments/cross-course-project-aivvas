@@ -294,7 +294,7 @@ body {
 }
 
 .news {
-    font-size: 1em;
+    font-size: 1,5em;
     inline-size: 250px;
     overflow-wrap: break-word;
 }
@@ -305,7 +305,13 @@ body {
 }
 
 .night-in-the-museum {
-    font-size: 1em;
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+}
+
+.exhibition-loan {
+    font-size: 1,5em;
     inline-size: 250px;
     overflow-wrap: break-word;
 }
