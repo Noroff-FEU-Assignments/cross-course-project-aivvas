@@ -321,7 +321,8 @@ body {
 }
 
 .img-events-samuel {
-    display: inline-block;
+    object-fit: contain;
+    align-self: flex-start;
 }
 
 .img-events-mammoth {
