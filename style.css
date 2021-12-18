@@ -218,20 +218,21 @@ body {
 }
 
 .img-visit-scott {
-    text-align: end;
-    margin: 0 auto;
+    align-self:flex-end;
 }
 
 .p-visit > p {
     font-size: 1em;
     overflow-wrap: break-word;
     inline-size: 170px;
+    align-self: center;
 }
 
 .admission-visit {
     font-size: 1em;
     overflow-wrap: break-word;
     inline-size: 270px;
+    align-self: center;
 }
 
 .accessibility-visit {
@@ -239,6 +240,7 @@ body {
     font-size: 1em;
     overflow-wrap: break-word;
     inline-size: 270px;
+    align-self: center;
 }
 
 .food-visit {
@@ -246,6 +248,7 @@ body {
     font-size: 1em;
     overflow-wrap: break-word;
     inline-size: 270px;
+    align-self: center;
 }
 
 .shop-visit {
@@ -253,6 +256,7 @@ body {
     font-size: 1em;
     overflow-wrap: break-word;
     inline-size: 270px;
+    align-self: center;
 }
 
 .explore-parent {
