@@ -283,3 +283,8 @@ body {
 .img-explore2 {
     text-align: center;
 }
+
+.events-parent {
+    display: flex;
+    flex-direction: column;
+}
