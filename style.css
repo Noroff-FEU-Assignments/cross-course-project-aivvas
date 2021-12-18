@@ -335,6 +335,7 @@ body {
 
 .exhibition-spaces-parent {
     display: flex;
+    flex-direction: column;
 }
 
 .h1-exhibition-spaces {
