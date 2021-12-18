@@ -319,9 +319,9 @@ body {
 
 .img-events-samuel {
     order: 5;
+    align-self: flex-start;
 }
 
 .img-events-mammoth {
-    align-self: flex-start;
-    align-self:center;
+    align-self: flex-end;
 }
