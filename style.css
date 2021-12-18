@@ -301,10 +301,6 @@ body {
     align-self: center;
 }
 
-.img-events-samuel {
-    order: 5;
-}
-
 .night-in-the-museum {
     font-size: 1,5em;
     inline-size: 250px;
@@ -319,4 +315,12 @@ body {
     overflow-wrap: break-word;
     text-align: center;
     align-self: center;
+}
+
+.img-events-samuel {
+    order: 1;
+}
+
+.img-events-mammoth {
+
 }
