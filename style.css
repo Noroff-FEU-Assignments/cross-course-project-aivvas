@@ -228,6 +228,10 @@ body {
     align-self: center;
 }
 
+.p-visit {
+    align-self: center;
+}
+
 .admission-visit {
     font-size: 1em;
     overflow-wrap: break-word;
