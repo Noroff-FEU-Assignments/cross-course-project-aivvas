@@ -318,10 +318,9 @@ body {
 }
 
 .img-events-samuel {
-    order: 5;
-    align-self: flex-start;
+    order:1;
 }
 
 .img-events-mammoth {
-    order: 2;
+    align-self: flex-end;
 }
