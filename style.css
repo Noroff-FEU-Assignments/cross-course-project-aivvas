@@ -303,3 +303,9 @@ body {
     align-self: flex-end;
     margin: 0 auto;
 }
+
+.night-in-the-museum {
+    font-size: 1em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+}
