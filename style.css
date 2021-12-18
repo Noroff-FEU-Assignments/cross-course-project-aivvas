@@ -322,6 +322,7 @@ body {
 
 .img-events-samuel {
     float:left;
+    display: inline;
 }
 
 .img-events-mammoth {
