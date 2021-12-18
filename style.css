@@ -318,7 +318,7 @@ body {
 }
 
 .img-events-samuel {
-    order: -1;
+    float:left;
 }
 
 .img-events-mammoth {
