@@ -170,7 +170,9 @@ body {
 }
 
 .img-home2 {
-    align-self: flex-end;
+    order: 5;
+    margin: 0 auto;
+    text-align: end;
 }
 
 .h1-involved {
