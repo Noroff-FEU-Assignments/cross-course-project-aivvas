@@ -234,6 +234,10 @@ body {
 
 .location {
     align-self: center;
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
+    margin: 0 auto;
 }
 
 .admission-visit {
