@@ -289,6 +289,10 @@ body {
     flex-direction: column;
 }
 
+.h1-events {
+    text-align: center;
+}
+
 .news {
     font-size: 1em;
     inline-size: 250px;
