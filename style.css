@@ -237,28 +237,28 @@ body {
 .admission-visit {
     font-size: 1em;
     overflow-wrap: break-word;
-    inline-size: 170px;
+    inline-size: 270px;
 }
 
 .accessibility-visit {
     text-align: start;
     font-size: 1em;
     overflow-wrap: break-word;
-    inline-size: 170px;
+    inline-size: 270px;
 }
 
 .food-visit {
     text-align: start;
     font-size: 1em;
     overflow-wrap: break-word;
-    inline-size: 170px;
+    inline-size: 270px;
 }
 
 .shop-visit {
     text-align: start;
     font-size: 1em;
     overflow-wrap: break-word;
-    inline-size: 170px;
+    inline-size: 270px;
 }
 
 .explore-parent {
