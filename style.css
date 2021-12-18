@@ -286,7 +286,7 @@ body {
 
 .events-parent {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .h1-events {
@@ -300,8 +300,7 @@ body {
 }
 
 .img-events-samuel {
-    align-self: flex-end;
-    margin: 0 auto;
+    order: 5;
 }
 
 .night-in-the-museum {
