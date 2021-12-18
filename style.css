@@ -322,5 +322,6 @@ body {
 }
 
 .img-events-mammoth {
+    align-self: flex-start;
     align-self:center;
 }
