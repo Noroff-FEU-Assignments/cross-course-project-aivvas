@@ -299,6 +299,7 @@ body {
     overflow-wrap: break-word;
     text-align: center;
     align-self: center;
+    display: inline;
 }
 
 .night-in-the-museum {
@@ -307,6 +308,7 @@ body {
     overflow-wrap: break-word;
     text-align: center;
     align-self: center;
+    display: inline;
 }
 
 .exhibition-loan {
@@ -315,6 +317,7 @@ body {
     overflow-wrap: break-word;
     text-align: center;
     align-self: center;
+    display: inline;
 }
 
 .img-events-samuel {
