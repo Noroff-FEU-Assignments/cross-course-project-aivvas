@@ -297,6 +297,7 @@ body {
     font-size: 1,5em;
     inline-size: 250px;
     overflow-wrap: break-word;
+    text-align: center;
 }
 
 .img-events-samuel {
@@ -307,10 +308,12 @@ body {
     font-size: 1,5em;
     inline-size: 250px;
     overflow-wrap: break-word;
+    text-align: center;
 }
 
 .exhibition-loan {
     font-size: 1,5em;
     inline-size: 250px;
     overflow-wrap: break-word;
+    text-align: center;
 }
