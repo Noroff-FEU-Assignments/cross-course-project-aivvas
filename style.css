@@ -241,6 +241,7 @@ body {
     overflow-wrap: break-word;
     inline-size: 270px;
     align-self: center;
+    margin: 0 auto;
 }
 
 .accessibility-visit {
@@ -249,6 +250,7 @@ body {
     overflow-wrap: break-word;
     inline-size: 270px;
     align-self: center;
+    margin: 0 auto;
 }
 
 .food-visit {
@@ -257,6 +259,7 @@ body {
     overflow-wrap: break-word;
     inline-size: 270px;
     align-self: center;
+    margin: 0 auto;
 }
 
 .shop-visit {
@@ -265,6 +268,7 @@ body {
     overflow-wrap: break-word;
     inline-size: 270px;
     align-self: center;
+    margin: 0 auto;
 }
 
 .explore-parent {
