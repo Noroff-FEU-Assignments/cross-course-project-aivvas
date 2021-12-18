@@ -298,6 +298,7 @@ body {
     inline-size: 250px;
     overflow-wrap: break-word;
     text-align: center;
+    align-self: baseline;
 }
 
 .img-events-samuel {
