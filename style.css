@@ -1,0 +1,417 @@
+/* #0F1926 */
+
+*{background-color: #0F1926;}
+
+*{font-family: 'Montserrat', sans-serif;}
+*{font-family: 'Playfair Display', serif;}
+
+
+body {
+    margin: 0;
+}
+
+.logo {
+    color: white;
+    margin: 0 auto;
+}
+
+.ex-space {
+    background-color: #f0f2a7;
+    color: black;
+    font-size: 1em;
+    padding: 8px 30px;
+    border-radius: 15px;
+}
+
+.events {
+    background-color: #f0f2a7;
+    color: black;
+    font-size: 1em;
+    padding: 8px 30px;
+    border-radius: 15px;
+}
+
+.visit {
+    background-color: #f0f2a7;
+    color: black;
+    font-size: 1em;
+    padding: 8px 30px;
+    border-radius: 15px;
+}
+
+.involved {
+    background-color: #f0f2a7;
+    color: black;
+    font-size: 1em;
+    padding: 8px 30px;
+    border-radius: 15px;
+}
+
+.explore {
+    background-color: #f0f2a7;
+    color: black;
+    font-size: 1em;
+    padding: 1px 10px;
+    border-radius: 15px;
+}
+
+.info {
+    color: white;
+}
+
+.info-involved {
+    color: white;
+}
+
+.info-spaces {
+    color: white;
+}
+ 
+.info-explore {
+    color: white;
+}
+
+.info-events {
+    color: white;
+}
+
+.info-visit {
+    color: white;
+}
+
+.img-home-toa {
+    max-width: 531px;
+    max-height: 796px;
+    border-radius: 25px;
+}
+
+.img-home-celso {
+    max-width: 700px;
+    max-height: 629px;
+    border-radius: 25px;
+}
+
+.img-explore-learn {
+    max-width: 778px;
+    max-height: 335px;
+    border-radius: 25px;
+}
+
+.img-explore-lab {
+    max-width: 1500px;
+    max-height: 410px;
+    border-radius: 25px;
+}
+
+.img-spaces-scientific {
+    max-width: 722px;
+    max-height: 480px;
+    border-radius: 25px;
+}
+
+.img-spaces-roberto {
+    max-width: 660px;
+    max-height: 1000px;
+    border-radius: 25px;
+}
+
+.img-events-samuel {
+    max-width: 466px;
+    max-height: 648px;
+    border-radius: 25px;
+}
+
+.img-events-mammoth {
+    max-width: 769px;
+    max-height: 678px;
+    border-radius: 25px;
+}
+
+.img-visit-scott {
+    max-width: 694px;
+    max-height: 694px;
+    border-radius: 25px;
+}
+
+.img-involved-people {
+    max-width: 715px;
+    max-height: 473px;
+    border-radius: 25px;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.nav-parent {
+    display: flex;
+}
+
+.navigation {
+    align-self: flex-end;
+
+}
+
+.main-home {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.info {
+    order: 1;
+    flex-wrap: wrap;
+    font-size: 1,5em;
+    inline-size: 720px;
+    overflow-wrap: break-word;
+    margin: 0 auto;
+    align-self: center;
+}
+
+.img-home1 {
+    align-self: left;
+    margin: 0 auto;
+}
+
+.h1-involved {
+    text-align: center;
+}
+
+.getinvolved-main {
+    display: flex;
+    flex-direction: column;
+}
+
+.support {
+    order: 1;
+    font-size: 1em;
+    inline-size: 720px;
+    overflow-wrap: break-word;
+    margin: 0 auto;
+}
+
+.img-involved-people {
+    text-align: right;
+    align-self: flex-end;
+    margin: 0 auto;
+}
+.volunteer {
+    order: 1;
+    font-size: 1em;
+    inline-size: 720px;
+    overflow-wrap: break-word;
+    margin: 0 auto;
+}
+
+.internship {
+    order: 3;
+    font-size: 1em;
+    inline-size: 720px;
+    overflow-wrap: break-word;
+    margin: 0 auto;
+}
+
+.visit-parent {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.h1-visit {
+    text-align: center;
+}
+
+.img-visit-scott {
+    align-self:center;
+    margin: 0 auto;
+}
+
+.p-visit > p {
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 170px;
+    border: 2px white; 
+    border-style:solid;
+}
+
+.p-visit {
+    align-self: center;
+}
+
+.location {
+    align-self: center;
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 380px;
+    margin: 0 auto;
+}
+
+.admission-visit {
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
+    align-self: center;
+    margin: 0 auto;
+}
+
+.accessibility-visit {
+    text-align: start;
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
+    align-self: center;
+    margin: 0 auto;
+}
+
+.food-visit {
+    text-align: start;
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
+    align-self: center;
+    margin: 0 auto;
+}
+
+.shop-visit {
+    text-align: start;
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
+    align-self: center;
+    margin: 0 auto;
+}
+
+.explore-parent {
+    display: flex;
+    flex-direction: column;
+}
+
+.h1-explore {
+    text-align: center;
+}
+
+.img-explore-learn {
+    margin: 0 auto;
+    align-self:center;
+}
+
+.forkids {
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.forteachers {
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.forresearchers {
+    font-size: 1em;
+    overflow-wrap: break-word;
+    inline-size: 270px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.img-explore-lab {
+    margin: 0 auto;
+    align-self:center;
+}
+
+.events-parent {
+    display: flex;
+    flex-direction: column;
+}
+
+.h1-events {
+    text-align: center;
+}
+
+.news {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+    text-align: center;
+    align-self: center;
+}
+
+.night-in-the-museum {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+    text-align: center;
+    align-self: center;
+}
+
+.exhibition-loan {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+    text-align: center;
+    align-self: center;
+}
+
+.img-events-samuel {
+    order: -1;
+    margin: 0 auto;
+}
+
+.img-events-mammoth {
+    align-self: center;
+}
+
+.exhibition-spaces-parent {
+    display: flex;
+    flex-direction: column;
+}
+
+.h1-exhibition-spaces {
+    text-align: center;
+}
+
+.cosmology {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+    align-self: center;
+}
+
+.evolution {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+    align-self: center;
+}
+
+.biology-and-medicine {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+    align-self: center;
+}
+
+.robotics-and-al {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+    align-self: center;
+}
+
+.ecology {
+    font-size: 1,5em;
+    inline-size: 250px;
+    overflow-wrap: break-word;
+    align-self: center;
+}
+
+.img-spaces-scientific {
+    align-self: center;
+}
+
+.img-spaces-roberto {
+    align-self: center;
+}
