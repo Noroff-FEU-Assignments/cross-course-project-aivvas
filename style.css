@@ -83,54 +83,63 @@ body {
     max-width: 531px;
     max-height: 796px;
     border-radius: 25px;
+    width: 100%;
 }
 
 .img-home-celso {
     max-width: 700px;
     max-height: 629px;
     border-radius: 25px;
+    width: 100%;
 }
 
 .img-explore-learn {
     max-width: 778px;
     max-height: 335px;
     border-radius: 25px;
+    width: 100%;
 }
 
 .img-explore-lab {
     max-width: 1500px;
     max-height: 410px;
     border-radius: 25px;
+    width: 100%;
 }
 
 .img-spaces-scientific {
     max-width: 722px;
     max-height: 480px;
     border-radius: 25px;
+    width: 100%;
 }
 
 .img-spaces-roberto {
     max-width: 660px;
     max-height: 1000px;
     border-radius: 25px;
+    width: 100%;
 }
 
 .img-events-samuel {
     max-width: 466px;
     max-height: 648px;
     border-radius: 25px;
+    width: 100%;
 }
 
 .img-events-mammoth {
     max-width: 769px;
     max-height: 678px;
     border-radius: 25px;
+    width: 100%;
 }
 
 .img-visit-scott {
     max-width: 694px;
     max-height: 694px;
     border-radius: 25px;
+    width: 100%;
 }
 
 .img-involved-people {
@@ -140,6 +149,7 @@ body {
     top: 0;
     right: 0;
     left: 0;
+    width: 100%;
 }
 
 .nav-parent {
