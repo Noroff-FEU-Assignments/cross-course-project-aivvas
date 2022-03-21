@@ -35,7 +35,7 @@ body {
 .visit {
     background-color: #f0f2a7;
     color: black;
-    font-size: 1em;
+    font-size: 1vw;
     padding: 8px 30px;
     border-radius: 15px;
 }
@@ -43,7 +43,7 @@ body {
 .involved {
     background-color: #f0f2a7;
     color: black;
-    font-size: 1em;
+    font-size: 1vw;
     padding: 8px 30px;
     border-radius: 15px;
 }
@@ -51,7 +51,7 @@ body {
 .explore {
     background-color: #f0f2a7;
     color: black;
-    font-size: 1em;
+    font-size: 1vw;
     padding: 1px 10px;
     border-radius: 15px;
 }
