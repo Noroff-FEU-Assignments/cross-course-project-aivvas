@@ -13,12 +13,13 @@ body {
 .logo {
     color: white;
     margin: 0 auto;
+    font-size: 10vw;
 }
 
 .ex-space {
     background-color: #f0f2a7;
     color: black;
-    font-size: 1em;
+    font-size: 1vw;
     padding: 8px 30px;
     border-radius: 15px;
 }
@@ -26,7 +27,7 @@ body {
 .events {
     background-color: #f0f2a7;
     color: black;
-    font-size: 1em;
+    font-size: 1vw;
     padding: 8px 30px;
     border-radius: 15px;
 }
