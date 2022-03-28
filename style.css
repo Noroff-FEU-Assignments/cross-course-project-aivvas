@@ -477,3 +477,11 @@ body {
 .input {
     background-color: #ffff;
 }
+
+.contact-p {
+    font-size: 1em;
+    color: #ffff;
+    align-self: center;
+    margin: 0 auto;
+    overflow-wrap: break-word;
+}
