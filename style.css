@@ -451,3 +451,10 @@ body {
 .img-spaces-roberto {
     align-self: center;
 }
+
+.contact-form {
+    font-size: 1em;
+    background-color: #ffff;
+    align-self: center;
+    margin: 0 auto;
+}
