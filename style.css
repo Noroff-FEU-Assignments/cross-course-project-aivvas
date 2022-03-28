@@ -463,6 +463,7 @@ body {
     flex: 1;
     gap: 15px;
     align-content: center;
+    margin-top: 100px;
 }
 
 .h1-contact {
