@@ -462,6 +462,7 @@ body {
     flex-wrap: wrap;
     flex: 1;
     gap: 15px;
+    align-content: center;
 }
 
 .h1-contact {
