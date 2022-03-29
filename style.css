@@ -519,3 +519,8 @@ body {
     overflow-wrap: break-word;
     inline-size: 450px;
 }
+
+.order-h1 {
+    color: #ffff;
+    text-align: center ;
+}
