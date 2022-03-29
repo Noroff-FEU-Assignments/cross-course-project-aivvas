@@ -525,3 +525,12 @@ body {
     color: #ffff;
     text-align: center ;
 }
+
+.cart {
+    background-color: #f0f2a7;
+    color: black;
+    font-size: 0.8vw;
+    padding: 1px 10px;
+    border-radius: 15px;
+    width: 100%;
+}
