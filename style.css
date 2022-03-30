@@ -477,8 +477,8 @@ body {
 
 .cart-p {
     color: #ffff;
+    inline-size: 250px;
     overflow-wrap: break-word;
-    word-break: 200px;
     text-align: center;
     width: 100%;
 }
