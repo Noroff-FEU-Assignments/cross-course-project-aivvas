@@ -13,8 +13,8 @@ body {
 .logo {
     color: white;
     margin: 0 auto;
-    font-size: 1.2vw;
-    min-width: 1.5em;
+    font-size: 1rem;
+    width: 100%;
 }
 
 .nav-parent{
@@ -36,7 +36,7 @@ body {
     width: 100%;
 }
 
-.explore {
+.explore, .order {
     background-color: #f0f2a7;
     color: black;
     font-size: 0.8vw;
@@ -45,38 +45,8 @@ body {
     width: 100%;
 }
 
-.order {
-    background-color: #ffff;
-    color: black;
-    font-size: 0.8vw;
-    padding: 1px 10px;
-    border-radius: 15px;
-    width: 100%;
-}
 
-
-
-.info {
-    color: white;
-}
-
-.info-involved {
-    color: white;
-}
-
-.info-spaces {
-    color: white;
-}
- 
-.info-explore {
-    color: white;
-}
-
-.info-events {
-    color: white;
-}
-
-.info-visit {
+.info, .info-involved, .info-spaces, .info-explore, .info-events, .info-visit {
     color: white;
 }
 
