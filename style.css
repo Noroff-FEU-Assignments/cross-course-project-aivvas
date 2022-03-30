@@ -48,6 +48,7 @@ body {
 
 .info, .info-involved, .info-spaces, .info-explore, .info-events, .info-visit {
     color: white;
+    width: 100%;
 }
 
 .img-home-toa {
