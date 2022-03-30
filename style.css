@@ -14,6 +14,7 @@ body {
     color: white;
     margin: 0 auto;
     font-size: 1.2vw;
+    width: 100%;
 }
 
 .ex-space {
@@ -229,6 +230,7 @@ body {
     align-self: flex-end;
     margin: 0 auto;
 }
+
 .volunteer {
     order: 1;
     font-size: 1em;
