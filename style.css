@@ -17,6 +17,11 @@ body {
     min-width: 1.5em;
 }
 
+.navigation {
+    width: fixed;
+    height: fixed;
+}
+
 .ex-space {
     background-color: #f0f2a7;
     color: black;
