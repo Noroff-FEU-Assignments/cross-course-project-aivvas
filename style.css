@@ -475,6 +475,11 @@ body {
     text-align: center ;
 }
 
+.cart-p {
+    color: #ffff;
+    text-align: center ;
+}
+
 .cart {
     background-color: #f0f2a7;
     color: black;
