@@ -477,9 +477,9 @@ body {
 
 .cart-p {
     color: #ffff;
-    text-align: center ;
     inline-size: 250px;
     overflow-wrap: break-word;
+    text-align: center ;
 }
 
 .cart {
