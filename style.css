@@ -36,6 +36,12 @@ body {
     width: 100%;
 }
 
+.explore-order-parent{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
 .explore, .order {
     background-color: #f0f2a7;
     color: black;
