@@ -12,53 +12,43 @@ const submitcart = document.querySelector(".submit-cart");
 const submit = documentt.querySelector(".submit");
 
 
+function fullname(name){
+  if(name.length < 5)
+    text = "Please Enter valid Name";
+    return false;
+};
 
-function labelForm(){
-    if (lengthValidation(name.value, 0 === true)){
-        console.log.style.display = "none";
-    } else {
-        console.log.style.display = "name required"
-    }
+function isEmail(email) {
+    let regex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
+    return regex.test(String(email).toLowerCase());
+};
 
-function emailValidation(email){
-     const regEx = /\S+@\S+\.\S+/;
-     const email = regEx.test(email);
-     return email;
-     }
+function subject(subject){
+if(subject.length < 10)
+    text = "Please Enter Correct Subject";
+    return false;
+};
 
- if(lengthValidation(address.value, 24 === true)){
-     console.log.style.display = "none"
- } else {
-     console.log.style.display = "Address not valid"
- }
+function address(address){
+    if(address.length < 5)
+      text = "Please Enter valid address";
+      return false;
+};
 
- if(lengthValidation(subject.value, 9 === true)){
-     console.log.style.display = "none"
- } else {
-     console.log.style.display = "Valid subject required"
- };
+function cardnumber(cardnumber){
+    if(cardnumber.length < 16)
+      text = "Please Enter valid card number";
+      return false;
+};
 
- function lengthValidation(email){
-    let regex = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
-    if (email.match(regex)){
-        return true;
-    } else {
-        alert("Invalid e-mail")
-        return false;
-    }
- }
+function expiry(expirtydate){
+    if(expirtydate.length < 4)
+      text = "Please Enter valid expiry date";
+      return false;
+};
 
- if (lengthValidation(email.value, "anystring@anystring.anystring" === true )){
-        console.log.style.display = "none"
-     } else {
-          console.log.style.display = "invalid email";
-     }
- }
-
- var submitbutton = document.querySelector(".submit")
-     submitbutton.onsubmit = function(){
-     alert("Your email has been succesfully sent!");
-     return true;
- }
-
-labelForm();
+function securitycode(securitycode){
+    if(securitycode.length < 3)
+      text = "Please Enter valid security code";
+      return false;
+};
